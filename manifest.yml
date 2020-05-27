@@ -1,0 +1,5 @@
+---
+applications:
+ - memory: 512M
+  #  content_security_policy: default-src 'self' style-src 'self' 'unsafe-inline'
+   buildpack: https://github.com/cloudfoundry/nodejs-buildpack#v1.6.56
