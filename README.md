@@ -1,9 +1,3 @@
-# saa-wft-ui
-UI for the SAA ISA project
+obfuscated repo from major project. 
 
-
-
-### Q&A
-- Build on cloud failed.
-  - Modify the build script on cloud
-  - https://github.com/vuejs/vue-cli/issues/439
+this is the ui. see the other project2-vue repos for the mongo, json, and db2/sql APIs.
